@@ -1,0 +1,16 @@
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\bin\Debug\net8.0-windows\Rocket Static Test.exe
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\bin\Debug\net8.0-windows\Rocket Static Test.deps.json
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\bin\Debug\net8.0-windows\Rocket Static Test.runtimeconfig.json
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\bin\Debug\net8.0-windows\Rocket Static Test.dll
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\bin\Debug\net8.0-windows\Rocket Static Test.pdb
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket_Static_Test.Form1.resources
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.csproj.GenerateResource.cache
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.AssemblyInfoInputs.cache
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.AssemblyInfo.cs
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.csproj.CoreCompileInputs.cache
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.dll
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\refint\Rocket Static Test.dll
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.pdb
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\Rocket Static Test.genruntimeconfig.cache
+C:\Users\atakl\source\repos\Rocket Static Test\Rocket Static Test\obj\Debug\net8.0-windows\ref\Rocket Static Test.dll

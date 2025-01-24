@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Static Test", "Rocket Static Test\Rocket Static Test.csproj", "{84C35DC1-DF02-4501-968C-8DD0F8840CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C35DC1-DF02-4501-968C-8DD0F8840CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C35DC1-DF02-4501-968C-8DD0F8840CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C35DC1-DF02-4501-968C-8DD0F8840CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C35DC1-DF02-4501-968C-8DD0F8840CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FBD3B31-6535-4BDD-93C7-D13B1E2B7939}
+	EndGlobalSection
+EndGlobal
