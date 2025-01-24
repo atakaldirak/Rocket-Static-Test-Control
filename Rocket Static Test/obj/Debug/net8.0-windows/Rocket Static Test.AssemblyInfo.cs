@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rocket Static Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa138452df3885a1dcd90ee7e024293e197e7b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rocket Static Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rocket Static Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
